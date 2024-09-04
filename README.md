@@ -5,6 +5,8 @@ Sou José Edmilson, atualmente estou aprendendo e criando projetos com:
 
 <img src="https://img.shields.io/badge/React%20Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
 
+<img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white">
+
 
 <br>
 <br>
